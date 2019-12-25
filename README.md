@@ -1,3 +1,3 @@
 # Understanding MicroServices  
 # Spring Boot, Spring Cloud 
-# Eureka Server and LoadBalancer Configuration
+# Eureka Server/Client and LoadBalancer Configuration
